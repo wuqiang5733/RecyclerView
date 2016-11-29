@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+</resources>
